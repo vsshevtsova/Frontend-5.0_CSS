@@ -20,7 +20,7 @@ html {
   background-size: contain;
 }
 .content {
-  width: 50%;
+  width: 60%;
   margin: auto;
   position: relative;
   z-index: 1;
@@ -110,7 +110,6 @@ li:nth-child(4) {
 }
 
 .btn__title {
-  display: inline-block;
   font-family: Arial;
   font-size: 14px;
   line-height: 40px;
@@ -121,4 +120,5 @@ li:nth-child(4) {
 
 .btn__title::after {
   content: url(/icons/arrow.png);
+  margin: 0 0 0 8px;
 }
