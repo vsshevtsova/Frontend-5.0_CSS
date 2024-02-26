@@ -105,8 +105,8 @@ li:nth-child(4) {
   height: 44px;
   box-shadow: 0px 6px 40px 0px rgba(128, 183, 179, 0.54);
   border-radius: 50px;
-  border: rgba(128, 183, 179, 0.54);
-  background-color: rgba(128, 183, 179, 0.54);
+  border: #80b7b3;
+  background-color: #80b7b3;
 }
 
 .btn__title {
