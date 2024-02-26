@@ -11,7 +11,7 @@ html {
 .background::after {
   content: "";
   position: absolute;
-  background-image: url(/icons/line.png);
+  background-image: url(../icons/line.png);
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
@@ -79,7 +79,7 @@ img {
   margin-bottom: 59px;
 }
 li::before {
-  content: url(/icons/check_icon.png);
+  content: url(../icons/check_icon.png);
   margin-right: 8px;
 }
 li:first-child {
@@ -119,6 +119,6 @@ li:nth-child(4) {
 }
 
 .btn__title::after {
-  content: url(/icons/arrow.png);
+  content: url(../icons/arrow.png);
   margin: 0 0 0 8px;
 }
